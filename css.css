@@ -1,0 +1,43 @@
+body {
+ background-color: #eee;
+}
+
+#titulo {
+ background-color: #333;
+ color: #fff;
+ text-align: center;
+}
+
+#menuPrincipal {
+ background-color: #444;
+ text-align: center;
+}
+
+nav ul {
+ list-style: none;
+}
+
+nav ul li {
+ display: inline;
+}
+
+#enlaceMenuPrincipal {
+ text-decoration: none;
+ color: #fff;
+}
+
+#tituloSeccion {
+ background-color: #333;
+ color: #fff;
+}
+
+#articulo {
+ border: 1px solid #ccc;
+ background-color: #fff;
+}
+
+footer {
+ background-color: #333;
+ color: #fff;
+ text-align: center;
+}
